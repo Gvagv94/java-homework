@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4716bf9d-b2cb-4292-ac08-cca0f0c83a5a" name="Changes" comment="Commite Messige" />
+    <list default="true" id="4716bf9d-b2cb-4292-ac08-cca0f0c83a5a" name="Changes" comment="Commite Messige">
+      <change afterPath="$PROJECT_DIR$/src/main/ge/tbc/testautomation/annotationAndComparators/RectangleComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ge/tbc/testautomation/runners/ContainersAndRegexRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ge/tbc/testautomation/runners/ContainersAndRegexRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ge/tbc/testautomation/runners/ContainersAndRegexRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ge/tbc/testautomation/runners/ContainersAndRegexRunner.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +18,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -20,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/../.." value="abstractClassesInterfaces" />
+        <entry key="$PROJECT_DIR$/../.." value="containersRegex" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -41,7 +47,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/G.Shanava/Desktop/steuer",
+    "last_opened_file_path": "C:/Users/G.Shanava/Desktop/George",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -53,13 +59,13 @@
       <recent name="ge.tbc.testautomation.runners" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ContainersAndRegexRunner">
-    <configuration name="Circleww" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ge.tbc.testautomation.exceptionsStringOperations.runners.Circleww" />
+  <component name="RunManager" selected="Application.Lecture9Runner">
+    <configuration name="ContainersAndRegexRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ge.tbc.testautomation.runners.ContainersAndRegexRunner" />
       <module name="java-homwork" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ge.tbc.testautomation.exceptionsStringOperations.runners.*" />
+          <option name="PATTERN" value="ge.tbc.testautomation.runners.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContainersAndRegexRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ge.tbc.testautomation.runners.ContainersAndRegexRunner" />
+    <configuration name="Lecture9Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ge.tbc.testautomation.runners.Lecture9Runner" />
       <module name="java-homwork" />
       <extension name="coverage">
         <pattern>
@@ -127,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lecture9Runner" />
         <item itemvalue="Application.ContainersAndRegexRunner" />
         <item itemvalue="Application.ge.tbc.testautomation.exceptionsStringOperations.runners.Main" />
         <item itemvalue="Application.TestSplitMethod" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Circleww" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +171,21 @@
       <option name="project" value="LOCAL" />
       <updated>1668215324201</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Commite Messige">
+      <created>1668696790801</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1668696790801</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Commite Messige">
+      <created>1668696959287</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1668696959287</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

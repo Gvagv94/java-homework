@@ -57,7 +57,7 @@ public class ContainersAndRegexRunner {
             }
 
 
-            TreeSet<Circle> circleTreeSet = new TreeSet<>();
+          TreeSet<Circle> circleTreeSet = new TreeSet<>();
             circleTreeSet.add(new Circle(8));
             circleTreeSet.add(new Circle(43));
             circleTreeSet.add(new Circle(7));
@@ -89,7 +89,6 @@ public class ContainersAndRegexRunner {
             for (int i = 0; i < arr.size(); i++) {
                 System.out.println(phoneNumberValidation(arr.get(i)));
             }
-
         }
     }
 }
