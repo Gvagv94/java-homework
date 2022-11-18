@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4716bf9d-b2cb-4292-ac08-cca0f0c83a5a" name="Changes" comment="Commite Messige">
-      <change afterPath="$PROJECT_DIR$/src/main/ge/tbc/testautomation/annotationAndComparators/RectangleComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/ge/tbc/testautomation/runners/ContainersAndRegexRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ge/tbc/testautomation/runners/ContainersAndRegexRunner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ge/tbc/testautomation/runners/ContainersAndRegexRunner.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ge/tbc/testautomation/runners/ContainersAndRegexRunner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ge/tbc/testautomation/annotationAndComparators/Analyzable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ge/tbc/testautomation/annotationAndComparators/Analyzable.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -185,7 +182,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668696959287</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Commite Messige">
+      <created>1668792953431</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668792953431</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
