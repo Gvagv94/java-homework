@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4716bf9d-b2cb-4292-ac08-cca0f0c83a5a" name="Changes" comment="Commite Messige">
-      <change beforePath="$PROJECT_DIR$/src/main/ge/tbc/testautomation/annotationAndComparators/Analyzable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ge/tbc/testautomation/annotationAndComparators/Analyzable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ge/tbc/testautomation/generics/AnyPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ge/tbc/testautomation/generics/FigurePair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ge/tbc/testautomation/runners/Figure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ge/tbc/testautomation/runners/Lecture10Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ge/tbc/testautomation/annotationAndComparators/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ge/tbc/testautomation/annotationAndComparators/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/ge/tbc/testautomation/runners/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/ge/tbc/testautomation/runners/Circle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/../.." value="containersRegex" />
+        <entry key="$PROJECT_DIR$/../.." value="annotationsAndComparators" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
@@ -44,7 +50,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/G.Shanava/Desktop/George",
+    "last_opened_file_path": "C:/Users/G.Shanava/Downloads/Telegram Desktop/java-homwork (5)",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
@@ -56,7 +62,7 @@
       <recent name="ge.tbc.testautomation.runners" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lecture9Runner">
+  <component name="RunManager" selected="Application.Lecture10Runner">
     <configuration name="ContainersAndRegexRunner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ge.tbc.testautomation.runners.ContainersAndRegexRunner" />
       <module name="java-homwork" />
@@ -70,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lecture9Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ge.tbc.testautomation.runners.Lecture9Runner" />
+    <configuration name="Lecture10Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ge.tbc.testautomation.runners.Lecture10Runner" />
       <module name="java-homwork" />
       <extension name="coverage">
         <pattern>
@@ -83,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ge.tbc.testautomation.runners.Main" />
+    <configuration name="Lecture9Runner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ge.tbc.testautomation.runners.Lecture9Runner" />
       <module name="java-homwork" />
       <extension name="coverage">
         <pattern>
@@ -130,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lecture10Runner" />
         <item itemvalue="Application.Lecture9Runner" />
         <item itemvalue="Application.ContainersAndRegexRunner" />
         <item itemvalue="Application.ge.tbc.testautomation.exceptionsStringOperations.runners.Main" />
         <item itemvalue="Application.TestSplitMethod" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -189,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668792953431</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Commite Messige">
+      <created>1668793677202</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1668793677202</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

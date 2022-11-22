@@ -1,6 +1,6 @@
 package ge.tbc.testautomation.runners;
 
-    public class Circle implements Comparable {
+    public class Circle extends Figure implements Comparable {
         private final int radius;
 
         public Circle(int radius) {
