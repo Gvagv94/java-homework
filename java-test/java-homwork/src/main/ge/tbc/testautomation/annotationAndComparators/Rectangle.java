@@ -1,6 +1,8 @@
 package ge.tbc.testautomation.annotationAndComparators;
 
-public class Rectangle {
+import ge.tbc.testautomation.runners.Figure;
+
+public class Rectangle extends Figure {
     private double a,b;
     public Rectangle(double a, double b){
         this.a = a;

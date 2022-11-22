@@ -18,19 +18,19 @@ public class Analyzable {
     @VariableNameAnnotation()
     boolean someBooleanElement = true;
 
-    @VariableNameAnnotation()
+    @VariableNameAnnotation(name = "someByteElement")
     byte someByteElement = 'a';
 
-    @VariableNameAnnotation()
+    @VariableNameAnnotation(name = "SomeShortElement")
     short someShortElement = 33;
 
-    @VariableNameAnnotation()
+    @VariableNameAnnotation(name = "SomeLongElement")
     long someLongElement = 1;
 
-    @VariableNameAnnotation()
+    @VariableNameAnnotation(name = "someDoubleElement")
     double someDoubleElement = 1;
 
-    @VariableNameAnnotation()
+    @VariableNameAnnotation(name = "SomeArrayElements")
     ArrayList<String> someArrayElements = new ArrayList<String>();
 
 
